@@ -1,4 +1,5 @@
 # data-platform-landing
+![image](https://github.com/user-attachments/assets/f21b9518-8f79-45b9-95bb-72d0ba3690f8)
 
 
 
